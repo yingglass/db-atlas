@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ac62434c1f79d72",
+        "id": "7ce2a505356f739e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea15cb7a0c59e927",
+            "id": "a4578eebddc5b1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,17 +188,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "805bed60f429a7b7",
+  "active": "a4578eebddc5b1ef",
   "lastOpenFiles": [
-    "images/Pasted image 20260817161307.png",
-    "images/Pasted image 20260817160918.png",
-    "images/Pasted image 20260817153223.png",
-    "images/Pasted image 20260817152449.png",
+    "docker/images/Pasted.md",
+    "docker/docker.md",
+    "docker/images/4.png",
+    "docker/images/2.png",
+    "docker/images/3.png",
+    "images/Pa.md",
+    "images",
+    "docker/images/1.png",
     "images/Pasted image 20260817152335.png",
     "images/docker-run.png",
-    "images",
+    "docker/images",
     "Pasted image 20260817151621.png.md",
-    "docker/docker.md",
     "Pasted image 20260817151621.png",
     "README.md",
     "docker",
